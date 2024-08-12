@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: rgb(210,139,200);
+background: radial-gradient(circle, rgba(210,139,200,0.6082808123249299) 7%, rgba(64,0,32,0.47102591036414565) 100%);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
